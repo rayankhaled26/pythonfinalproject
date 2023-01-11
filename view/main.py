@@ -118,27 +118,3 @@ elif user_input is '2':
                 print("client id is ", order.order_list[i].clint_id)
                 print("book id is ", order.order_list[i].book_id)
                 print("status number is ", order.order_list[i].status)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
